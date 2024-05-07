@@ -13,7 +13,7 @@ class Product(BaseModel):
             'name': 'Strawberries',
             'description': 'Juicy organic strawberries.',
             'price': 4.99,
-            'url': 'https://picsum.photos/id/1080/360/200'
+            'url': 'https://fastly.picsum.photos/id/1080/360/200.jpg?hmac=IuBMuRRwPv-iI5XdVU3ULBbURbBnWEl31Qcd4YcmVJU'
         },
         {
             'name': 'Cup of Tea',
